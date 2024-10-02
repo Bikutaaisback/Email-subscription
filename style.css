@@ -54,3 +54,7 @@ span{
     margin-top: 10px;
     display: block;
 }
+.errorMessage{
+    background-color: rgb(164, 25, 25);
+    font-weight: bold;
+}
