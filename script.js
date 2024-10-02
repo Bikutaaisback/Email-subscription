@@ -18,6 +18,6 @@ const scriptURL = 'https://script.google.com/macros/s/AKfycbxHj0HNFnSyvdwLADsQIW
         setTimeout(function(){
             message.innerHTML= "";
         }, 5000);
-      })
+      })    
   });
     
